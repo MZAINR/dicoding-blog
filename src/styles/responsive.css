@@ -70,8 +70,8 @@
   .posts {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-column-gap: 10px;
-    grid-row-gap: 16px;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
   }
 }
   
