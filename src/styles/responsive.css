@@ -1,6 +1,6 @@
 .posts {
     display: grid;
-    grid-row-gap: 16px;
+    grid-row-gap: 30px;
   }
   
 @media screen and (max-width: 499px) {
